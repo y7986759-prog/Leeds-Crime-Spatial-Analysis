@@ -17,7 +17,7 @@ The workflow includes:
 
 ## How to Run
 1. Open the Jupyter notebook `GEOG5415_leeds_crime_analysis.ipynb`.
-2. Ensure all required data files are stored in the `data/` folder.
+2. Download and unzip data.zip, and place the extracted data folder in the project root directory.
 3. Run all cells from top to bottom.
 
 ## Output
