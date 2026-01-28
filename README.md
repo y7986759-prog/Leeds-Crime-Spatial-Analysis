@@ -16,7 +16,7 @@ The workflow includes:
 5. Visualising spatial patterns using maps.
 
 ## How to Run
-1. Open the Jupyter notebook `analysis.ipynb`.
+1. Open the Jupyter notebook `GEOG5415_leeds_crime_analysis.ipynb`.
 2. Ensure all required data files are stored in the `data/` folder.
 3. Run all cells from top to bottom.
 
