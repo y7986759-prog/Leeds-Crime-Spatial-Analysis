@@ -1,7 +1,7 @@
 # Spatial Analysis of Crime in Leeds (June–November 2025)
 
 ## Project Background
-This project investigates the spatial distribution of recorded street-level crime in Leeds using open data from the UK Police API and official boundary datasets. The aim is to explore spatial patterns of crime and provide insights that could support public understanding and local decision-making.
+This project investigates the spatial distribution of recorded street-level crime in Leeds using open data from the UK Police API and official boundary datasets.The aim is to explore spatial patterns of crime in Leeds and identify areas with relatively high or low crime levels.
 
 ## Data Sources
 - UK Police API: Street-level crime data by month.
